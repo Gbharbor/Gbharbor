@@ -1,9 +1,9 @@
-#👨🏾‍💻 Ola eu sou Guilherme Porto !
+👨🏾‍💻 Ola eu sou Guilherme Porto !
 
-- 🔭 Working on Front-End
-- 💻 Learning JavaScript
-- 📄 Git/GitHub
-- 📄 Html5/Css3
+  - 💻 Engenharia de Software
+  - 💻 Learning JavaScript
+  - 📄 Git/GitHub
+  - 📄 Html5/Css3
 
 
 
