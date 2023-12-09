@@ -1,12 +1,14 @@
 ## 👨🏾‍💻 Ola eu sou Guilherme Porto !
 
-  - 💻 Graduando: Engenharia de Software
-  - Interesse   : Front-End Develop
+💻 Graduando : Engenharia de Software
+
+💻 Learning : JavaScript
+#
+  - 📄 Checked  : |Html5/Css3|
+  - 📄 Checked  : |Git/GitHub|
+  - 📄 Checked  : |Configuracao de Redes|
+  - 📄 Checked  : |Manutencao Desktop|
+
     
-  - 💻 Learning : |JavaScript|
-  - 📄 Check    : |Git/GitHub|
-  - 📄 Check    : |Html5/Css3|
-  - 📄 Check    : |Manutencao Desktop|
-  - 📄 Check    : |Configuracao de Redes|
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drportox&show_icons=true&theme=radical)
