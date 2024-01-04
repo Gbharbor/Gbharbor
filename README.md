@@ -1,8 +1,8 @@
 ## 👨🏾‍💻Guilherme Porto
 
-💻 Graduando : Engenharia de Software
+ Graduando : Engenharia de Software
 
-💻 Learning : JavaScript
+ Learning : JavaScript
 #
   - 📄 Checked  : |Html5/Css3|
   - 📄 Checked  : |Git/GitHub|
