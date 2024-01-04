@@ -1,4 +1,4 @@
-## 👨🏾‍💻Guilherme Porto !
+## 👨🏾‍💻Guilherme Porto
 
 💻 Graduando : Engenharia de Software
 
