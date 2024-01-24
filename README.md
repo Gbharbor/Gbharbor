@@ -1,6 +1,6 @@
 ## 👨🏾‍💻Guilherme Porto
 
- UG : Software Enginnering
+![USER@](https://img.shields.io/badge/UG:Software_Enginnering-%23000.svg?style=for-the-badge&logo=&logoColor=white)
 
 ![JS](https://img.shields.io/badge/JavaScript-%23FFF.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-%23FFF.svg?style=for-the-badge&logo=css3&logoColor=black)
