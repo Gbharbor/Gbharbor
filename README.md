@@ -9,7 +9,7 @@
 ![GitHub](https://img.shields.io/badge/github-%232f80ed.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drportox&show_icons=true&dracula)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drportox&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gbharbor&show_icons=true&dracula)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gbharbor&layout=compact)
 
 ![Discord](https://img.shields.io/badge/-%23FFF.svg?style=for-the-badge&logo=discord&logoColor=black)
 ![Instagram](https://img.shields.io/badge/-%23FFF.svg?style=for-the-badge&logo=Instagram&logoColor=black)
