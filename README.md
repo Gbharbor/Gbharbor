@@ -2,7 +2,7 @@
 
 ![USER@](https://img.shields.io/badge/BE:Software_Enginnering-%23fff.svg?style=for-the-badge&logo=&logoColor=black)
 
-![JS](https://img.shields.io/badge/JScript-%232f80ed.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%232f80ed.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%232f80ed.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%232f80ed.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%232f80ed.svg?style=for-the-badge&logo=git&logoColor=white)
