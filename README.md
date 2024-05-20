@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/-%23054f77.svg?style=for-the-badge&logo=Instagram&logoColor=%23FFF" alt="Instagram" style="width: 50px;">
   <img src="https://img.shields.io/badge/-%23054f77.svg?style=for-the-badge&logo=TikTok&logoColor=%23FFF" alt="TikTok" style="width: 50px;">
   <img src="https://img.shields.io/badge/-%23054f77.svg?style=for-the-badge&logo=YouTube&logoColor=%23FFF" alt="YouTube" style="width: 50px;">
-  <img src="https://img.shields.io/badge/@devharbor-%23054f77.svg?style=for-the-badge&logo=&logoColor=%23FFF" alt="USER" style="width: 133px;">
+  <img src="https://img.shields.io/badge/@gbharbor-%23054f77.svg?style=for-the-badge&logo=&logoColor=%23FFF" alt="USER" style="width: 123px;">
 </p>
 
 
