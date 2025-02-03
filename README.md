@@ -1,5 +1,5 @@
 <h1 align="center">🧑🏽‍💻 Hey, Welcome!</h1>
-<p align="center">I'm gbharbor (Guilherme Porto), a Software Engineering student with C1 English, learning ReactJS, and managing two tech blogs.</p>
+<p align="center">I'm gbharbor (Guilherme Porto), a Software Engineering student with C1 English, learning ReactJS & tech blog manager.</p>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react" height="55" alt="react logo"  />
   <img width="5" />
