@@ -34,9 +34,7 @@ I'm Guilherme Porto, a Computer Engineering student focused on web technologies 
 <br/>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbharbor&layout=compact&theme=tokyonight" width="350" height="250"/>
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gbharbor&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&hide=html,css" width="350"/>
 </div>
 
 <br/>
