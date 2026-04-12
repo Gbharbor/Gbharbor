@@ -16,7 +16,7 @@ I'm Guilherme Porto, a Computer Engineering student focused on web technologies 
 
 <p align="center"><b>Stack</b></p>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,git,c,cpp"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,c,cpp"/>
 </div>
 <br/>
 
