@@ -22,7 +22,7 @@ I'm Guilherme Porto, a Computer Engineering student focused on web technologies 
 
 <p align="center"><b>Currently Learning</b></p>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,python" height="40" />
+<img src="https://skillicons.dev/icons?i=python" height="40" />
 </div>
 
 <br/>
@@ -34,7 +34,7 @@ I'm Guilherme Porto, a Computer Engineering student focused on web technologies 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gbharbor&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&hide=html,css" width="350"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gbharbor&layout=compact&langs_count=4&theme=tokyonight&hide_border=true&hide=html,css,scss" width="300"/>
 </div>
 
 <br/>
