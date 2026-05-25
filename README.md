@@ -6,7 +6,7 @@ I'm Guilherme Porto, a Computer Engineering student focused on web technologies 
 
 <div align="center">
 
-<a href="https://gbharbor.netlify.app/" target="_blank">
+<a href="https://porto-eng.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-View%20Projects-0A66C2?style=for-the-badge&logo=netlify"/>
 </a>
 
